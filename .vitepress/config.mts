@@ -60,7 +60,6 @@ export default defineConfig({
 	},
 	metaChunk: true,
 	srcDir: './src',
-	outDir: './dist',
 	// Vite configuration for development server
 	vite: {
 		server: {

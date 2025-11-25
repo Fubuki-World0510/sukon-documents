@@ -13,3 +13,4 @@ ts
 !.yarn/versions
 *.gz
 *.tgz
+package-lock.json
